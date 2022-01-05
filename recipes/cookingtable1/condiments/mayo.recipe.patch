@@ -1,14 +1,6 @@
 [
   {
     "op": "add",
-    "path": "/groups",
-    "value": [
-      "craftingfood",
-      "condiments"
-    ]
-  },
-  {
-    "op": "add",
     "path": "/input/-",
     "value": {
       "item": "pat_oil",

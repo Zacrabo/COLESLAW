@@ -1,7 +1,7 @@
 [
   {
     "op": "add",
-    "path": "/surfacePlaceables/items/12",
+    "path": "/surfacePlaceables/items/-",
     "value": {
       "mode": "floor",
       "priority": 1,
