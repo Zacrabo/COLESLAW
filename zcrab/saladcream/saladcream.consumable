@@ -1,0 +1,34 @@
+{
+  "itemName" : "zcrab_saladcream",
+  "rarity" : "Legendary",
+  "price" : 269,
+  "category" : "preparedFood",
+  "inventoryIcon" : "saladcream.png",
+  "description" : "After a century of being a must-have ingredient in lunchboxes and picnic hampers up and down the country, Heinz Salad Cream is still the 'Original Tangy Taste' that makes it one of Britain's best-loved sauces. Does your BBQ need beefing up? Does your iceberg get a frosty reception? Then, why not spruce up your celery, boost those burgers and add zest to your chicken breast with a delicious dollop of Heinz Salad Cream? Bring on the zing and dish up drumsticks they'll bang on about. Go on, get those barbecue tongs wagging.",
+  "shortdescription" : "Salad Cream",
+  "effects" : [ [
+    {
+        "effect" : "bottledwaterheal",
+        "duration" : 5
+    },
+    {
+        "effect" : "maxhealthscalingboostfood",
+        "duration" : 90
+    },
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 140
+    }
+  ] ],
+  "foodValue" : 40,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "emitters" : [ "drinking" ],
+  "learnBlueprintsOnPickup" : [ "zcrab_coleslaw" ]
+}

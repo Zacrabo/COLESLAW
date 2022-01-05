@@ -1,0 +1,37 @@
+{
+	"itemName": "zcrab_fineshreddedrawpurplecabbage",
+	"rarity": "Rare",
+	"price": 270,
+	"category": "food",
+	"inventoryIcon": "fineshreddedrawpurplecabbage.png",
+	"description": "le chuga",
+	"shortdescription": "Fine Shredded Raw Purple Cabbage",
+	"effects": [
+		[{
+			"effect": "foodpoison",
+			"duration": 30
+		},
+		{
+			"effect": "runboostfood",
+			"duration": 30
+		},
+		{
+			"effect": "ragefood",
+			"duration": 30
+		},
+		{
+			"effect": "electricblock",
+			"duration": 30
+		}]
+	],
+	"foodValue": 21,
+	"tooltipKind": "food",
+	"builder": "/items/buildscripts/buildfood.lua",
+	"maxStack": 1,
+	"itemAgingScripts": ["/scripts/items/rotting.lua"],
+	"rottingMultiplier": 1.0,
+	"blockingEffects" : [
+    "wellfed"
+  ],
+  "learnBlueprintsOnPickup" : [ "zcrab_coleslaw" ]
+}

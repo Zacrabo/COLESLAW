@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/input/0/item",
+    "value": "corn"
+  },
+  {
+    "op": "replace",
+    "path": "/groups/0",
+    "value": "craftingfood"
+  },
+  {
+    "op": "replace",
+    "path": "/groups/1",
+    "value": "condiments"
+  }
+]

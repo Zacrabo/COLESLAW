@@ -1,0 +1,26 @@
+{
+  "itemName" : "zcrab_dijonmustard",
+  "rarity" : "Legendary",
+  "price" : 269,
+  "category" : "preparedFood",
+  "inventoryIcon" : "dijonmustard.png",
+  "description" : "burgundy",
+  "shortdescription" : "Dijon Mustard",
+  "effects" : [ [
+    {
+        "effect" : "maxenergyscalingboostfood",
+        "duration" : 180
+    }
+  ] ],
+  "foodValue" : 40,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "emitters" : [ "drinking" ],
+  "learnBlueprintsOnPickup" : [ "zcrab_coleslaw" ]
+}

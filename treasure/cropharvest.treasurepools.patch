@@ -1,0 +1,37 @@
+[
+  {
+    "op": "add",
+    "path": "/zcrab_cabbageHarvest",
+    "value": [
+      [
+        0,
+        {
+          "pool": [
+            {
+              "weight": 0.89,
+              "item": "zcrab_cabbage"
+            },
+            {
+              "weight": 0.01,
+              "item": "zcrab_cabbageseed"
+            },
+            {
+              "weight": 0.1,
+              "item": "plantfibre"
+            }
+          ],
+          "poolRounds": [
+            [
+              0.6,
+              1
+            ],
+            [
+              0.4,
+              2
+            ]
+          ]
+        }
+      ]
+    ]
+  }
+]

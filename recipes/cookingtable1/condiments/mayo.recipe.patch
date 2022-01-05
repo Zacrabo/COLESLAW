@@ -1,0 +1,26 @@
+[
+  {
+    "op": "add",
+    "path": "/groups",
+    "value": [
+      "craftingfood",
+      "condiments"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/input/-",
+    "value": {
+      "item": "pat_oil",
+      "count": 1
+    }
+  },
+  {
+    "op": "add",
+    "path": "/input/-",
+    "value": {
+      "item": "zcrab_vinegar",
+      "count": 1
+    }
+  }
+]

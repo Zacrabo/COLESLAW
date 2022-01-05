@@ -1,0 +1,24 @@
+{
+  "itemName" : "zcrab_coleslaw",
+  "rarity" : "Essential",
+  "price" : 420,
+  "category" : "preparedFood",
+  "inventoryIcon" : "coleslaw.png",
+  "description" : "you have no idea, you really dont get it dude. grow up, educate yourself.",
+  "shortdescription" : "Coleslaw",
+  "effects" : [ [
+    {
+        "effect" : "jumpboostfood",
+        "duration" : 270
+    }
+  ] ],
+  "foodValue" : 30,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ]
+}

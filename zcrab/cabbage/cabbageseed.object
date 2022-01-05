@@ -1,0 +1,48 @@
+{
+  "objectName" : "zcrab_cabbageseed",
+  "colonyTags" : ["nature"],
+  "rarity" : "Uncommon",
+  "category" : "seed",
+  "description" : "el repollo",
+  "shortdescription" : "Cabbage Seed",
+  "objectType" : "farmable",
+  "printable" : false,
+  "price" : 69,
+
+  "inventoryIcon" : "cabbageseedicon.png",
+
+  "tooltipKind" : "seed",
+  "largeImage" : "cabbageseed.png:default.2.0",
+
+
+  "orientations" : [
+    {
+      "dualImage" : "cabbageseed.png:<color>.<stage>.<alt>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaces" : [ [1, 0], [0, 0], [1, 1], [0, 1] ],
+      "requireTilledAnchors" : true,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "radioMessagesOnPickup" : [ "pickupseed" ],
+
+  "stages" : [
+    {
+      "duration" : [1170, 1230]
+    },
+    {
+      "duration" : [1170, 1230]
+    },
+    {
+      "alts" : 5,
+      "harvestPool" : "zcrab_cabbageHarvest"
+    }
+  ],
+
+  "maxImmersion" : 0.25
+}

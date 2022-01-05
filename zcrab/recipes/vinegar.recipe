@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "cyanider", "count" : 1 },
+    { "item" : "rottenfood", "count" : 1 }
+  ],
+  "output" : { "item" : "zcrab_vinegar", "count" : 1 },
+  "groups" : [ "craftingfood", "drinks" ]
+}

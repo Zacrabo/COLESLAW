@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/sgrareaddon/0/1/pool/-",
+    "value": {
+      "weight": 0.4,
+      "item": [
+        "zcrab_dijonmustard",
+        1
+      ]
+    }
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "pat_mayo", "count" : 1 },
+    { "item" : "zcrab_saladcream", "count" : 1 },
+	{ "item" : "zcrab_fineshreddedrawcabbage", "count" : 1 },
+	{ "item" : "carrot", "count" : 1 },
+	{ "item" : "zcrab_fineshreddedrawpurplecabbage", "count" : 1 },
+	{ "item" : "zcrab_dijonmustard", "count" : 1 }
+  ],
+  "output" : { "item" : "zcrab_coleslaw", "count" : 1 },
+  "groups" : [ "craftingfood", "sides" ]
+}

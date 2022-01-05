@@ -1,0 +1,29 @@
+{
+	"itemName": "zcrab_fineshreddedrawcabbage",
+	"rarity": "Uncommon",
+	"price": 169,
+	"category": "food",
+	"inventoryIcon": "fineshreddedrawcabbage.png",
+	"description": "la berza",
+	"shortdescription": "Fine Shredded Raw Cabbage",
+	"effects": [
+		[{
+			"effect": "rage",
+			"duration": 30
+		},
+		{
+			"effect": "l6doomed",
+			"duration": 30
+		}]
+	],
+	"foodValue": 11,
+	"tooltipKind": "food",
+	"builder": "/items/buildscripts/buildfood.lua",
+	"maxStack": 1,
+	"itemAgingScripts": ["/scripts/items/rotting.lua"],
+	"rottingMultiplier": 1.0,
+	"blockingEffects" : [
+    "wellfed"
+  ],
+  "learnBlueprintsOnPickup" : [ "zcrab_coleslaw" ]
+}

@@ -1,0 +1,25 @@
+{
+  "itemName" : "zcrab_purplecabbage",
+  "rarity" : "Rare",
+  "price" : 269,
+  "category" : "food",
+  "inventoryIcon" : "purplecabbage.png",
+  "description" : "le ttuce",
+  "shortdescription" : "Purple Cabbage",
+  "effects": [
+		[{
+			"effect": "foodpoison",
+			"duration": 30
+		}]
+	],
+  "foodValue" : 19,
+  "tooltipKind" : "food",
+  "builder" : "/items/buildscripts/buildfood.lua",
+  "maxStack" : 1,
+  "itemAgingScripts" : ["/scripts/items/rotting.lua"],
+  "rottingMultiplier" : 1.0,
+  "blockingEffects" : [
+    "wellfed"
+  ],
+  "learnBlueprintsOnPickup" : [ "zcrab_fineshreddedrawpurplecabbage" ]
+}

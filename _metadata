@@ -1,0 +1,9 @@
+{
+  "version" : "c",
+  "tags" : "c",
+  "author" : "c",
+  "description" : "c",
+  "requires" : ["mayonnaise", "coveryourselfinoil", "Shellguard Expansion "],
+  "name" : "c",
+  "friendlyName" : "c"
+}
