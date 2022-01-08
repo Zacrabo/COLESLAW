@@ -1,0 +1,20 @@
+{
+  "kind" : "zcrab_coleslaw_yellow1",
+  "definition" : {
+		"type" : "ember",
+		"size" : 1.25,
+		"color" : [252, 247, 161, 255],
+		"initialVelocity" : [0, 15],
+		"finalVelocity" : [0, -40],
+		"approach" : [6, 16],
+		"timeToLive" : 0,
+		"collidesForeground" : true,
+		"destructionAction" : "fade",
+		"destructionTime" : 10,
+		"layer" : "front",
+		"variance" : {
+			"size" : 0.75,
+			"initialVelocity" : [50, 50]
+		}
+	}
+}

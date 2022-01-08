@@ -1,0 +1,17 @@
+{
+  "kind" : "zcrab_coleslaw_dijon",
+  "definition" : {
+		"type" : "textured",
+		"image" : "/zcrab/coleslaw/effect/particle/dijonmustard.png",
+		"initialVelocity" : [0, 40],
+		"finalVelocity" : [0, -50],
+		"approach" : [5, 50],
+		"timeToLive" : 20,
+		"destructionTime" : 10,
+		"variance" : {
+			"initialVelocity" : [15, 15],
+			"angularVelocity" : 20,
+			"rotation" : 30
+		}
+	}
+}

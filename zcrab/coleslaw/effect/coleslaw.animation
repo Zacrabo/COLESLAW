@@ -1,0 +1,28 @@
+{
+	"sounds" : {
+		"start" : ["coleslaw.ogg"]
+	},
+
+  "particleEmitters" : {
+    "death" : {
+			"burstCount" : 100,
+			"particles" : [
+				{ "particle" : "zcrab_coleslaw_green1" },
+				{ "particle" : "zcrab_coleslaw_green2" },
+				{ "particle" : "zcrab_coleslaw_green3" },
+				{ "particle" : "zcrab_coleslaw_yellow1"},
+				{ "particle" : "zcrab_coleslaw_yellow2"},
+				{ "particle" : "zcrab_coleslaw_yellow3"},
+				{ "particle" : "zcrab_coleslaw_orange1" },
+				{ "particle" : "zcrab_coleslaw_orange2" },
+				{ "particle" : "zcrab_coleslaw_purple1" },
+				{ "particle" : "zcrab_coleslaw_purple2" }
+			]
+		},
+    "dijon" : {
+			"particles" : [
+				{ "particle" : "zcrab_coleslaw_dijon" }
+			]
+		}
+	}
+}

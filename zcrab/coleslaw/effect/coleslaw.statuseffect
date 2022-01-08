@@ -1,0 +1,25 @@
+{
+  "name" : "zcrab_coleslaw",
+  "effectConfig" : {
+		"min" : [240, 225, 200],
+		"duration" : 8.6,
+		
+		"particle" : {
+			"type" : "textured",
+			"image" : "/assetmissing.png",
+			"initialVelocity" : [0, 20],
+			"finalVelocity" : [0, -50],
+			"approach" : [5, 50],
+			"timeToLive" : 20,
+			"destructionTime" : 10,
+			"variance" : {
+				"initialVelocity" : [30, 30],
+				"angularVelocity" : 20,
+				"rotation" : 180
+			}
+		}
+	},
+  "defaultDuration" : 10,
+	"animationConfig" : "coleslaw.animation",
+  "scripts" : ["coleslaw.lua"]
+}

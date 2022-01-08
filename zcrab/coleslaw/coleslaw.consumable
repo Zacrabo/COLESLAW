@@ -6,12 +6,7 @@
   "inventoryIcon" : "coleslaw.png",
   "description" : "you have no idea, you really dont get it dude. grow up, educate yourself.",
   "shortdescription" : "Coleslaw",
-  "effects" : [ [
-    {
-        "effect" : "jumpboostfood",
-        "duration" : 270
-    }
-  ] ],
+  "effects" : [["zcrab_coleslaw"]],
   "foodValue" : 30,
   "tooltipKind" : "food",
   "builder" : "/items/buildscripts/buildfood.lua",
