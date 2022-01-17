@@ -1,8 +1,8 @@
 {
-  "version" : "1.0",
+  "version" : "1.0.1",
   "author" : "zacrabo and patman :)",
   "tags" : "Food and Farming",
-  "requires" : ["mayonnaise", "coveryourselfinoil", "Shellguard Expansion "],
+  "includes" : ["mayonnaise", "coveryourselfinoil", "Shellguard Expansion "],
   "description" : "adds coleslaw!\nyou can eat it\n\nmake it at the cooking table with salad cream, mayonnaise, carrot, fine shredded raw cabbage, fine shredded raw purple cabbage and dijon mustard\n\nsalad cream is crafted with bottled water, vinegar, oil, and an egg\n\nmayonnaise is crafted with vinegar, oil and an egg\n\nfine shredded raw cabbage is made with a cabbage\n\nfine shredded raw purple cabbage is made with a purple cabbage\n\ndijon mustard is found in weapon chests at shellguard missions\n\nvinegar is made with cyanider and rot\n\noil is made with corn\n\ncabbage is harvested from cabbage crops which can be found in forest and lush planets\n\npurple cabbage is made with a cabbage and a purple dye\n\n\ncredits:\npatman - made the coleslaw status effect and something else i think\nzacrabo - everything else\nstardew valley - cabbage sprite\ntiy - emotional support during the cabbage spriting",
   "name" : "coleslaw",
   "friendlyName" : "coleslaw",
