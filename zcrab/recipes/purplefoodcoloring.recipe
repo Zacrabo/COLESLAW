@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "purpledye", "count" : 1 }
+  ],
+  "output" : { "item" : "zcrab_purplefoodcoloring", "count" : 1 },
+  "groups" : [ "craftingfood", "condiments" ]
+}

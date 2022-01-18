@@ -16,5 +16,7 @@
   "blockingEffects" : [
     "wellfed"
   ],
-  "learnBlueprintsOnPickup" : [ "zcrab_fineshreddedrawcabbage", "zcrab_purplecabbage" ]
+  "learnBlueprintsOnPickup" : [ "zcrab_fineshreddedrawcabbage" ],
+	
+	"zcrab_dyepurple" : "zcrab_purplecabbage"
 }

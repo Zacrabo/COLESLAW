@@ -25,5 +25,7 @@
 	"blockingEffects" : [
     "wellfed"
   ],
-  "learnBlueprintsOnPickup" : [ "zcrab_coleslaw" ]
+  "learnBlueprintsOnPickup" : [ "zcrab_coleslaw" ],
+	
+	"zcrab_dyepurple" : "zcrab_fineshreddedrawpurplecabbage"
 }

@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "zcrab_cabbage", "count" : 1 },
-	{ "item" : "purpledye", "count" : 1 }
-  ],
-  "output" : { "item" : "zcrab_purplecabbage", "count" : 1 },
-  "groups" : [ "craftingfood", "desserts" ]
-}

@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "zcrab_purplecabbage", "count" : 1 }
+  ],
+  "output" : { "item" : "zcrab_fineshreddedrawpurplecabbage", "count" : 1 },
+  "groups" : [ "craftingfood", "snacks" ]
+}

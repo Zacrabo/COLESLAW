@@ -1,0 +1,12 @@
+{
+  "itemName" : "zcrab_purplefoodcoloring",
+  "price" : 25,
+  "rarity" : "Uncommon",
+  "category" : "foodJunk",
+	"tooltipFields" : {"subtitle" : "Food Coloring"},
+  "inventoryIcon" : "purplefoodcoloring.png",
+  "description" : "This food coloring can be applied to a Cabbage with a right-click.",
+  "shortdescription" : "Purple Food Coloring",
+
+  "scripts" : [ "dyecabbage.lua" ]
+}
