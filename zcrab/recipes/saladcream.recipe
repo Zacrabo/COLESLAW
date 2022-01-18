@@ -1,10 +1,10 @@
 {
-  "input" : [
-    { "item" : "bottledwater", "count" : 1 },
-    { "item" : "egg", "count" : 1 },
-	{ "item" : "zcrab_vinegar", "count" : 1 },
-	{ "item" : "pat_oil", "count" : 1 }
-  ],
-  "output" : { "item" : "zcrab_saladcream", "count" : 1 },
-  "groups" : [ "craftingfood", "condiments" ]
+	"input" : [
+		{ "item" : "bottledwater", "count" : 1 },
+		{ "item" : "egg", "count" : 1 },
+		{ "item" : "zcrab_vinegar", "count" : 1 },
+		{ "item" : "pat_oil", "count" : 1 }
+	],
+	"output" : { "item" : "zcrab_saladcream", "count" : 1 },
+	"groups" : [ "craftingfood", "condiments" ]
 }
