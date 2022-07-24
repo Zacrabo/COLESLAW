@@ -1,0 +1,46 @@
+[
+  {
+    "op": "add",
+    "path": "/seed/1/1/pool/-",
+    "value": {
+      "weight": 1,
+      "item": [
+        "zcrab_cabbageseed",
+        3
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/seed/6/1/pool/12",
+    "value": {
+      "weight": 1,
+      "item": [
+        "zcrab_cabbageseed",
+        3
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/produce/1/1/pool/-",
+    "value": {
+      "weight": 1,
+      "item": [
+        "zcrab_cabbage",
+        3
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/produce/6/1/pool/12",
+    "value": {
+      "weight": 1,
+      "item": [
+        "zcrab_cabbage",
+        3
+      ]
+    }
+  }
+]

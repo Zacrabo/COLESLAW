@@ -1,10 +1,46 @@
 [
   {
     "op": "add",
+    "path": "/sgraregunbarrelgunbarrel/0/1/pool/-",
+    "value": {
+      "weight": 0.1,
+      "item": [
+        "zcrab_dijonmustard",
+        1
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/sgrarestock/0/1/pool/-",
+    "value": {
+      "weight": 0.1,
+      "item": [
+        "zcrab_dijonmustard",
+        1
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/sgrarereciever/0/1/pool/-",
+    "value": {
+      "weight": 0.1,
+      "item": [
+        "zcrab_dijonmustard",
+        1
+      ]
+    }
+  },
+  {
+    "op": "add",
     "path": "/sgrareaddon/0/1/pool/-",
     "value": {
-      "weight": 0.4,
-      "item": ["zcrab_dijonmustard", 1]
+      "weight": 0.1,
+      "item": [
+        "zcrab_dijonmustard",
+        1
+      ]
     }
   }
 ]
